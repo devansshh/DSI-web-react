@@ -1,0 +1,19 @@
+.about{
+    justify-content: center;
+    align-items: center;   
+    background-color: #F7F7F7;
+    padding:8vh 0;
+}
+
+.graphic{
+    text-align: center;
+}
+
+@media (max-width: 768px){
+    .about{text-align: center;} 
+    .group{width: 80%;}
+}
+
+@media (min-width: 768px){
+    .about{padding: 8vh 5vw;}
+}

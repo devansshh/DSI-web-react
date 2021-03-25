@@ -1,0 +1,11 @@
+.footer{      
+    align-items: center;
+    justify-content: center;      
+}
+.copyright{
+    background-color: #EE4248;
+    text-align: center;
+    color:white; 
+    width: 100%;
+       
+}

@@ -1,0 +1,20 @@
+.services{
+    justify-content: center;
+    align-items: center;
+    padding: 8vh 0;     
+}
+
+.caption{
+    padding: 4vh 0 2vh 0;
+    color: #1F2E35;
+    text-align: center;
+}
+
+@media (max-width: 768px){       
+    .services{text-align: center;} 
+}
+
+@media (min-width: 768px){       
+    .services{padding-left: 5vw;} 
+}
+
